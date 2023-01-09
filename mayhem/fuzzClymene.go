@@ -1,4 +1,4 @@
-package fuzz
+package fuzzClymene
 
 import "strconv"
 import "github.com/Clymene-project/Clymene/cmd/promtail/app/logentry/stages"
